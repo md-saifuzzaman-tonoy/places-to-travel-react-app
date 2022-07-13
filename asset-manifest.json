@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.61c70d65.css",
-    "main.js": "/static/js/main.a3c86142.js",
-    "index.html": "/index.html",
-    "main.61c70d65.css.map": "/static/css/main.61c70d65.css.map",
-    "main.a3c86142.js.map": "/static/js/main.a3c86142.js.map"
+    "main.css": "/places-to-travel-react-app/static/css/main.61c70d65.css",
+    "main.js": "/places-to-travel-react-app/static/js/main.a3c86142.js",
+    "index.html": "/places-to-travel-react-app/index.html",
+    "main.61c70d65.css.map": "/places-to-travel-react-app/static/css/main.61c70d65.css.map",
+    "main.a3c86142.js.map": "/places-to-travel-react-app/static/js/main.a3c86142.js.map"
   },
   "entrypoints": [
     "static/css/main.61c70d65.css",
