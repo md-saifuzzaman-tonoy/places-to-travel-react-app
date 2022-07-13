@@ -1,0 +1,12 @@
+.navbar {
+  margin-bottom: 30px;
+}
+.nav-link {
+  text-transform: capitalize;
+}
+.card {
+  margin: 3% 16%;
+}
+.card-img-top {
+  max-height: 500px;
+}
